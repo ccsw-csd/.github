@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hola 👋
+
+Repositorios de código de los proyectos generados por CCA - CCSw.
+
+Accede a [SonarQube](https://sonarcloud.io/organizations/ccsw-csd/projects) para ver la calidad del código.
 
 <!--
 
